@@ -4,7 +4,7 @@
 
 ## :fire: News
 
-- <span style="font-variant-numeric: tabular-nums;">**2026.01.22**</span>: We have submitted this paper. The expanded version code will be released after revision.
+- <span style="font-variant-numeric: tabular-nums;">**2026.01.22**</span>: We have submitted this paper. The expanded version code will be released after accept, just like our conference version [GLoMOT](https://github.com/sad123-yx/GLoMOT).
 
 # 1. Introduction
 
